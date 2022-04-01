@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CatenaX.NetworkServices.Keycloak.DBAccess
+build_property.ProjectDir = /home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/
