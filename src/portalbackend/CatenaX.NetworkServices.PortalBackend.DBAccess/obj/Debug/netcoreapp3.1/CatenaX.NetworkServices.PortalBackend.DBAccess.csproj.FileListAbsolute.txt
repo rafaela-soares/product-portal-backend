@@ -1,0 +1,13 @@
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.csproj.AssemblyReference.cache
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.AssemblyInfoInputs.cache
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.AssemblyInfo.cs
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.csproj.CoreCompileInputs.cache
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.deps.json
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.dll
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.pdb
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Framework.DBAccess.dll
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Framework.DBAccess.pdb
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.csproj.CopyComplete
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.dll
+/home/q458168/cx-ng/product-portal-backend/src/portalbackend/CatenaX.NetworkServices.PortalBackend.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.PortalBackend.DBAccess.pdb

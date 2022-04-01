@@ -1,0 +1,13 @@
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.deps.json
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.dll
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.pdb
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Framework.DBAccess.dll
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Framework.DBAccess.pdb
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.csproj.AssemblyReference.cache
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.AssemblyInfoInputs.cache
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.AssemblyInfo.cs
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.csproj.CoreCompileInputs.cache
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.csproj.CopyComplete
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.dll
+/home/q458168/cx-ng/product-portal-backend/src/keycloak/CatenaX.NetworkServices.Keycloak.DBAccess/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Keycloak.DBAccess.pdb
