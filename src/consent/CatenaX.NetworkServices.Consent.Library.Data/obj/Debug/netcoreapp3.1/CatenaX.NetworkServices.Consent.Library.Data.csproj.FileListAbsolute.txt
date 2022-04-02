@@ -1,9 +1,0 @@
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.deps.json
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.dll
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/bin/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.pdb
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.GeneratedMSBuildEditorConfig.editorconfig
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.AssemblyInfoInputs.cache
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.AssemblyInfo.cs
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.csproj.CoreCompileInputs.cache
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.dll
-/home/q458168/cx-ng/product-portal-backend/src/consent/CatenaX.NetworkServices.Consent.Library.Data/obj/Debug/netcoreapp3.1/CatenaX.NetworkServices.Consent.Library.Data.pdb
