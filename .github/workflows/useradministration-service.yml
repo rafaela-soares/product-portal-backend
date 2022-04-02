@@ -1,1 +1,31 @@
 name: UserAdministration-Service
+
+on: 
+  push:
+    paths:
+      - 'src/useradministration/CatenaX.NetworkServices.UserAdministration.Service/**'
+
+    branches:
+      - 'main'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and Publish Docker Image
+        uses: docker/build-push-action@v2
+        with:
+          push: true
+          context: .
+          file: ./docker/Dockerfile.useradministration
+          tags: ghcr.io/${{ github.actor }}/useradministration-service:latest
