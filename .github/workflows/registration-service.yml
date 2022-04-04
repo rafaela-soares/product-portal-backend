@@ -1,7 +1,7 @@
 name: Registration-Service
 
 on: 
-  # push:
+  push:
   #   paths:
   #     - 'src/registration/CatenaX.NetworkServices.Registration.Service/**'
 
