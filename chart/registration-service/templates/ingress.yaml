@@ -19,7 +19,7 @@ spec:
   - host: {{ .Values.name }}.{{ .Values.domain }}
     http:
       paths:
-      - path: /api/registration(/|$)(.*)
+      - path: /api/registration/(/|$)(.*)
         pathType: Prefix
         backend:
           service:
