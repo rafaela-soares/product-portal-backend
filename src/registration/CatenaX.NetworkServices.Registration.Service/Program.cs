@@ -25,7 +25,7 @@ namespace CatenaX.NetworkServices.Registration.Service
                     if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT").Equals("Kubernetes"))
                     {
                         var provider = new PhysicalFileProvider("/app/secrets");
-                        builder.AddJsonFile(provider, "appsettings.json", optional: false, reloadOnChange: false);
+                        builder.AddJsonFile(provider, "secret-registration-appsettings.json", optional: false, reloadOnChange: false);
                     }
                 })
                 .ConfigureAppConfiguration(appConfiguration => {
