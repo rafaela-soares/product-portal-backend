@@ -2,8 +2,8 @@ name: UserAdministration-Service
 
 on: 
   push:
-    # paths:
-    #   - 'src/useradministration/CatenaX.NetworkServices.UserAdministration.Service/**'
+    paths:
+      - 'src/useradministration/CatenaX.NetworkServices.UserAdministration.Service/**'
 
     branches:
       - 'main'

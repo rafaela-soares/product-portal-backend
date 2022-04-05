@@ -2,8 +2,8 @@ name: Provisioning-Service
 
 on: 
   push:
-    # paths:
-    #   - 'src/provisioning/CatenaX.NetworkServices.Provisioning.Service/**'
+    paths:
+      - 'src/provisioning/CatenaX.NetworkServices.Provisioning.Service/**'
 
     branches:
       - 'main'
