@@ -18,14 +18,14 @@ spec:
         imagePullPolicy: "Always"
         ports:
         - containerPort: {{ .Values.portContainer }}
-      #   env:
-      #   - name: "ASPNETCORE_ENVIRONMENT"
-      #     value: "Kubernetes"
-      #   volumeMounts:
-      #   - name: secrets
-      #     mountPath: /app/secrets
-      #     readOnly: true
-      # volumes:
-      # - name: secrets
-      #   secret:
-      #     secretName: secret-{{ .Values.name }}-appsettings
+        env:
+        - name: "ASPNETCORE_ENVIRONMENT"
+          value: "Kubernetes"
+        volumeMounts:
+        - name: secrets
+          mountPath: /app/secrets
+          readOnly: true
+      volumes:
+      - name: secrets
+        secret:
+          secretName: secret-registration-appsettings
