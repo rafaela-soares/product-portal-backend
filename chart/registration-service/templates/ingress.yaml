@@ -26,5 +26,3 @@ spec:
             name: {{ .Values.name }}
             port:
               number: {{ .Values.portService }}
-            port:
-              number: 8080
