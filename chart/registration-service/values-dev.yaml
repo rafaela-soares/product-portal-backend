@@ -1,8 +1,3 @@
 image: "ghcr.io/catenax-ng/product-portal-backend_registration-service:main"
-portContainer: 8080
-portService: 8080
-replicaCount: 1
 name: "registration-service-dev"
 host: "registration-service-dev.demo.catena-x.net"
-issuer: "letsencrypt-prod"
-tlsSecretName: "tls-secret"
