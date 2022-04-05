@@ -18,6 +18,9 @@ spec:
         imagePullPolicy: "Always"
         ports:
         - containerPort: {{ .Values.portContainer }}
+        env:
+        - name: "ASPNETCORE_ENVIRONMENT"
+          value: "Kubernetes"
       volumes:
       - name: secrets
         secret:
