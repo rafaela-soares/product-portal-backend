@@ -1,3 +1,3 @@
-image: "ghcr.io/catenax-ng/product-portal-backend_registration-service:main"
 name: "registration-service"
-host: "registration-service.demo.catena-x.net"
+host: "registration-service"
+image: "ghcr.io/catenax-ng/product-portal-backend_registration-service:main"
