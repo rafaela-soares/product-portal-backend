@@ -8,6 +8,9 @@ WORKDIR /
 COPY src/ src/
 COPY keycloak/ keycloak/
 WORKDIR "/src/registration/CatenaX.NetworkServices.Registration.Service"
+RUN find /
+#RUN nuget config -set http_proxy=http://localhost:3128
+#RUN nuget config -set https_proxy=http://localhost:3128
 RUN dotnet build "CatenaX.NetworkServices.Registration.Service.csproj" -c Release -o /app/build
 
 FROM build AS publish
