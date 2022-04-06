@@ -55,6 +55,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "useradministration", "usera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatenaX.NetworkServices.UserAdministration.Service", "useradministration\CatenaX.NetworkServices.UserAdministration.Service\CatenaX.NetworkServices.UserAdministration.Service.csproj", "{E0B962AD-963A-4E3B-A275-DA38F6D7E9AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keycloak.Net", "..\keycloak\src\Keycloak.Net\Keycloak.Net.csproj", "{9750284E-8FA1-422E-93B2-123DA0670C35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -284,6 +286,18 @@ Global
 		{E0B962AD-963A-4E3B-A275-DA38F6D7E9AD}.Release|x64.Build.0 = Release|Any CPU
 		{E0B962AD-963A-4E3B-A275-DA38F6D7E9AD}.Release|x86.ActiveCfg = Release|Any CPU
 		{E0B962AD-963A-4E3B-A275-DA38F6D7E9AD}.Release|x86.Build.0 = Release|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Debug|x64.Build.0 = Debug|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Debug|x86.Build.0 = Debug|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Release|x64.ActiveCfg = Release|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Release|x64.Build.0 = Release|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Release|x86.ActiveCfg = Release|Any CPU
+		{9750284E-8FA1-422E-93B2-123DA0670C35}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{69B45EA8-35FA-42CE-8E1F-4BD63B222C36} = {5F582699-0178-43B1-B6CC-E9E21C3BD5DB}
