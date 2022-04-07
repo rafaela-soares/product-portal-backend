@@ -119,6 +119,7 @@ namespace CatenaX.NetworkServices.Registration.Service
                 KeycloakUntrustedCertExceptionHandler.ConfigureExceptions(Configuration.GetSection("Keycloak"));
                 FlurlErrorLogging.ConfigureLogger(logger);
             }
+            Console.WriteLine("Swagger enabled: ", Configuration.GetValue<bool?>("SwaggerEnabled"));
             if (Configuration.GetValue<bool?>("SwaggerEnabled") != null && Configuration.GetValue<bool>("SwaggerEnabled"))
             {
                 app.UseSwagger( c => c.RouteTemplate = "/api/registration/swagger/{documentName}/swagger.{json|yaml}");
