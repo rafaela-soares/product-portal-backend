@@ -28,7 +28,7 @@ jobs:
       uses: checkmarx/kics-github-action@v1.5
       with:
         # Scanning two directories: ./terraform/ ./cfn-templates/ plus a single file
-        path: './, ./docker/'
+        path: './,./docker/'
         # Fail on HIGH and MEDIUM severity results
         fail_on: high,medium
         # when provided with a directory on output_path
