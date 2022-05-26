@@ -43,6 +43,7 @@ jobs:
         # GITHUB_TOKEN enables this github action to access github API and post comments in a pull request
         token: ${{ secrets.GITHUB_TOKEN }}
         # enable_comments: true
+        enable_comments: true
 
     # Display the results in json format
     - name: Display kics results
